@@ -1,4 +1,4 @@
-baseURL = "https://RegnerM2015.github.io/"
+baseURL = "https://example.org/"
 title = "Matt Regner"
 theme = "hugo-coder"
 languageCode = "en"
@@ -107,12 +107,6 @@ weight = 1
 url = "https://github.com/johndoe/"
 
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
@@ -124,20 +118,6 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/johndoe/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
-
 [languages.en]
 languageName = ":uk:"
 
@@ -145,6 +125,11 @@ languageName = ":uk:"
 name = "About"
 weight = 1
 url = "about/"
+
+[[languages.en.menu.main]]
+name = "Education"
+weight = 1
+url = "education/"
 
 [[languages.en.menu.main]]
 name = "Publications"
@@ -157,7 +142,12 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "CV/Resume"
+weight = 3
+url = "resume/"
+
+[[languages.en.menu.main]]
+name = "Contact Me"
 weight = 5
 url = "contact/"
 
