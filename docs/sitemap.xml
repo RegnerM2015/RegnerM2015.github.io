@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://RegnerM2015.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://RegnerM2015.github.io/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://RegnerM2015.github.io/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/contact/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/publications/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/authors/</loc>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/categories/</loc>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/</loc>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/series/</loc>
+  </url><url>
+    <loc>https://RegnerM2015.github.io/tags/</loc>
+  </url>
+</urlset>

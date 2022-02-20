@@ -6,5 +6,37 @@
     <description>Recent content on Matt Regner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://RegnerM2015.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://RegnerM2015.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RegnerM2015.github.io/about/</guid>
+      <description>About    I am currently a Ph.D. student co-advised by Drs. Hector Franco and Joel Parker at UNC Chapel Hill. In the Franco Lab, I am developing and applying statistical approaches to study gene regulation in human cancers by leveraging single-cell genomics data collected from human tumors. I am deeply passionate about cancer genomics, machine learning, and data science reproducibility.
+Outside of lab, I enjoy gaming, golf and spending time with friends and family.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://RegnerM2015.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RegnerM2015.github.io/contact/</guid>
+      <description>Contact Me    Email: regnerm@live.unc.edu (preferred) or mattregner24@gmail.com
+Phone: 614-940-0761
+If you have any questions or would like learn more about my research, please feel free to reach out!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://RegnerM2015.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RegnerM2015.github.io/publications/</guid>
+      <description>Publications    Graduate Research    Regner MJ, Wisniewska K, Garcia-Recio S, et al. A multi-omic single-cell landscape of human gynecologic malignancies. Molecular Cell. 2021;81(23): 4924-4941. doi:10.1016/j.molcel.2021.10.013
+Undergraduate Research    Shultz Z, Gaitor JC, Burton RD, Regner M, Sheng Y, Mirjafari A. Phosphorodithioate-functionalized ionic liquids: Synthesis and physicochemical properties characterization. Journal of Molecular Liquids. 2019;276:334-337. doi:10.1016/j.molliq.2018.11.166
+Sheng Y, Regner M. Roles of Water Molecules and Counterion on HS- Sensing Reaction Utilizing a Pyrylium Derivative: A Computational Study.</description>
+    </item>
+    
   </channel>
 </rss>
