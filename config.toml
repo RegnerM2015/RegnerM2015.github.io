@@ -17,7 +17,7 @@ author = "Matt Regner"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Matt Regner's personal website"
 keywords = "blog,developer,personal"
-info = ["Bioinformatics and Computational Biology", "PhD student"]
+info = ["Bioinformatics and Computational Biology Ph.D. Student", "The University of North Carolina at Chapel Hill"]
 avatarURL = "Selfie.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -101,22 +101,28 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-envelope"
+weight = 1
+url = "mailto:regnerm@live.unc.edu"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/johndoe/"
+weight = 2
+url = "https://github.com/RegnerM2015"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/RegnerMJ"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/matthew-regner-09102711b"
 
 [languages.en]
 languageName = ":uk:"
@@ -126,25 +132,20 @@ name = "About"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "Education"
-weight = 1
-url = "education/"
+#[[languages.en.menu.main]]
+#name = "Current Projects"
+#weight = 2
+#url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Publications"
-weight = 2
+weight = 3
 url = "publications/"
 
 [[languages.en.menu.main]]
-name = "Current Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
 name = "CV/Resume"
-weight = 3
-url = "resume/"
+weight = 4
+url = "https://www.dropbox.com/s/273rb7nbwdrli71/Matthew_Regner_CV_12_2021.pdf?dl=0"
 
 [[languages.en.menu.main]]
 name = "Contact Me"
@@ -180,3 +181,8 @@ url = "contact/"
 #name = "Contato"
 #weight = 5
 #url = "contact/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
