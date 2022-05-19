@@ -17,7 +17,7 @@ author = "Matt Regner"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Matt Regner's personal website"
 keywords = "blog,developer,personal"
-info = ["Bioinformatics and Computational Biology Ph.D. Student", "The University of North Carolina at Chapel Hill"]
+info = ["Ph.D. Candidate", "Bioinformatics and Computational Biology", "The University of North Carolina at Chapel Hill", "Lineberger Comprehensive Cancer Center"]
 avatarURL = "Selfie.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
