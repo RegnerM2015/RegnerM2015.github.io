@@ -1,5 +1,5 @@
 baseURL = "https://RegnerM2015.github.io/"
-title = "Matt Regner"
+title = "Matthew J. Regner"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -15,7 +15,7 @@ enableEmoji = true
 [params]
 author = "Matthew J. Regner"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Matthew J.Regner's personal website"
+description = "Matthew J. Regner's personal website"
 keywords = "blog,developer,personal"
 info = ["Ph.D. Candidate", "Bioinformatics and Computational Biology", "The University of North Carolina at Chapel Hill"]
 avatarURL = "Selfie.jpg"
