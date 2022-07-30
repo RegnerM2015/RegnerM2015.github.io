@@ -1,9 +1,9 @@
 # Publications
 
 #### **Graduate Research**
-Kelly, MR, Wisniewska, K, **Regner, MJ**, Lewis, MW, Perreault, AA, Davis, ES, Phanstiel, DH, Parker, JS and Franco, HL. A multi-omic dissection of super-enhancer driven oncogenic gene expression programs in ovarian cancer. bioRxiv. 2022. doi:[https://doi.org/10.1101/2022.04.08.487699](https://doi.org/10.1101/2022.04.08.487699)
+Kelly, MR, Wisniewska, K, **Regner, MJ**, Lewis, MW, Perreault, AA, Davis, ES, Phanstiel, DH, Parker, JS and Franco, HL. A multi-omic dissection of super-enhancer driven oncogenic gene expression programs in ovarian cancer. Nature Communications. 2022;13(1):4247. doi:[10.1038/s41467-022-31919-8](https://www.nature.com/articles/s41467-022-31919-8)
 
-Lewis, MW, Wisniewska, K, King, CM, Li, S, Coffey, A, Kelly, MR, **Regner, MJ** and Franco, HL. Enhancer RNA transcription is essential for a novel CSF1 enhancer in triple-negative breast cancer. Cancers. 2022;14(7): 1852. doi:[10.3390/cancers14071852](https://doi.org/10.3390/cancers14071852)
+Lewis, MW, Wisniewska, K, King, CM, Li, S, Coffey, A, Kelly, MR, **Regner, MJ** and Franco, HL. Enhancer RNA transcription is essential for a novel CSF1 enhancer in triple-negative breast cancer. Cancers. 2022;14(7):1852. doi:[10.3390/cancers14071852](https://doi.org/10.3390/cancers14071852)
 
 **Regner MJ**, Wisniewska K, Garcia-Recio S, et al. A multi-omic single-cell landscape of human gynecologic malignancies. Molecular Cell. 2021;81(23): 4924-4941. doi:[10.1016/j.molcel.2021.10.013](https://doi.org/10.1016/j.molcel.2021.10.013)
 #### **Undergraduate Research**
