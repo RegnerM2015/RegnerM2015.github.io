@@ -1,5 +1,5 @@
 baseURL = "https://RegnerM2015.github.io/"
-title = "Matthew J. Regner"
+title = "Matthew J. Regner (he/him)"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -150,7 +150,7 @@ url = "publications/"
 [[languages.en.menu.main]]
 name = "CV/Resume"
 weight = 4
-url = "https://www.dropbox.com/home?preview=CV_Resume_Matthew_Regner_05_29_2023.pdf"
+url = "https://www.dropbox.com/s/hdxxewkyre5knau/CV_Resume_Matthew_Regner_05_29_2023.pdf?dl=0"
 
 [[languages.en.menu.main]]
 name = "Contact Me"
