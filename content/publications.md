@@ -1,6 +1,9 @@
 # Publications
 
 #### **Graduate Research**
+
+Kim, H., Wisniewska, K., **Regner, M.**, Spanheimer, Philip, and Franco, H, 2022. Transcriptional and Epigenetic Profiles of Male Breast Cancer at Single-Cell Resolution Nominate Salient Cancer-Specific Enhancers. Submitted to BMC Genomics.
+
 Kelly, MR, Wisniewska, K, **Regner, MJ**, Lewis, MW, Perreault, AA, Davis, ES, Phanstiel, DH, Parker, JS and Franco, HL. A multi-omic dissection of super-enhancer driven oncogenic gene expression programs in ovarian cancer. Nature Communications. 2022;13(1):4247. doi:[10.1038/s41467-022-31919-8](https://www.nature.com/articles/s41467-022-31919-8)
 
 Lewis, MW, Wisniewska, K, King, CM, Li, S, Coffey, A, Kelly, MR, **Regner, MJ** and Franco, HL. Enhancer RNA transcription is essential for a novel CSF1 enhancer in triple-negative breast cancer. Cancers. 2022;14(7):1852. doi:[10.3390/cancers14071852](https://doi.org/10.3390/cancers14071852)

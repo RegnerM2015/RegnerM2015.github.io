@@ -13,11 +13,11 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Matthew J. Regner"
+author = "Matthew J. Regner (he/him)"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Matthew J. Regner's personal website"
 keywords = "blog,developer,personal"
-info = ["Pronouns: he/him/his", "Ph.D. Candidate", "Bioinform. and Comp. Biology", "UNC Chapel Hill"]
+info = ["Ph.D. Candidate", "Bioinformatics and Computational Biology", "UNC Chapel Hill"]
 avatarURL = "Selfie.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -150,7 +150,7 @@ url = "publications/"
 [[languages.en.menu.main]]
 name = "CV/Resume"
 weight = 4
-url = "https://www.dropbox.com/s/174nftjgeilv1ei/Matthew_Regner_CV.pdf?dl=0"
+url = "https://www.dropbox.com/home?preview=CV_Resume_Matthew_Regner_05_29_2023.pdf"
 
 [[languages.en.menu.main]]
 name = "Contact Me"
